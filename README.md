@@ -10,6 +10,11 @@ Latest release: [v0.1.828](https://github.com/mocoplex-corp/fold-release/release
 - [Windows ARM64 MSI](https://github.com/mocoplex-corp/fold-release/releases/download/v0.1.828/FoldDisplay-arm64-0.1.828.msi) — Windows on ARM PCs
 - [SHA-256 checksums](https://github.com/mocoplex-corp/fold-release/releases/download/v0.1.828/SHA256SUMS-0.1.828.txt)
 
+Microsoft Store uses the versioned, non-redirecting package endpoints below:
+
+- [Windows x64 MSI (direct)](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/downloads/0.1.828/FoldDisplay-x64-0.1.828.msi)
+- [Windows ARM64 MSI (direct)](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/downloads/0.1.828/FoldDisplay-arm64-0.1.828.msi)
+
 The Windows host MSI contains only the FoldDisplay host, tray app, icon, and local setup guide. It does not bundle a display driver or NT service. Screen mirroring works without a driver. The separately distributed virtual-display driver is optional and is only needed to create an extended Windows desktop.
 
 You can also install FoldDisplay from the [Microsoft Store](https://apps.microsoft.com/store/detail/XPDLJZ75GNBLXD).
