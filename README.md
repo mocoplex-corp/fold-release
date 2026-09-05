@@ -4,7 +4,7 @@ Public, signed binary releases for FoldDisplay by Mocoplex, Inc.
 
 ## Windows host
 
-Latest release: [v0.1.829](https://github.com/mocoplex-corp/fold-release/releases/tag/v0.1.829)
+Latest release: [v0.1.905](https://github.com/mocoplex-corp/fold-release/releases/tag/v0.1.905)
 
 Permanent download links — they always resolve to the newest published release, so an installed app never points at a file that has been replaced:
 
