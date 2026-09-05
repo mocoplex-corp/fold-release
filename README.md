@@ -24,9 +24,9 @@ extended desktop.
 The Store needs a versioned URL that does not redirect, so its packages live
 under `downloads/<version>/` instead of the release assets:
 
-- [Store x64 MSI](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/downloads/0.1.829/FoldDisplay-Store-x64-0.1.829.msi)
-- [Store ARM64 MSI](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/downloads/0.1.829/FoldDisplay-Store-arm64-0.1.829.msi)
-- [SHA-256 checksums](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/SHA256SUMS-Store-0.1.829.txt)
+- [Store x64 MSI](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/downloads/0.1.905/FoldDisplay-Store-x64-0.1.905.msi)
+- [Store ARM64 MSI](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/downloads/0.1.905/FoldDisplay-Store-arm64-0.1.905.msi)
+- [SHA-256 checksums](https://raw.githubusercontent.com/mocoplex-corp/fold-release/main/SHA256SUMS-Store-0.1.905.txt)
 
 **These are a different build from the ones above, and the two are not
 interchangeable.** The Store variant is mirror-only by construction: it is
